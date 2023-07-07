@@ -29,9 +29,6 @@
     "phpunit/phpunit": "~5.5"
   },
   "extra": {
-    "branch-alias": {
-      "dev-master": "6.x-dev"
-    },
     "laravel": {
       "providers": [
         "Collective\\Remote\\RemoteServiceProvider"
